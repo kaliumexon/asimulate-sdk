@@ -1,5 +1,7 @@
 # ASIMULATE SDK
 
+> 🚀 **$ASIM just launched!** — [CA: `hGs7JdzuB2bnfRR5v5zrZ5DBEK22n1hwg7HHG87pump`](https://pump.fun/hGs7JdzuB2bnfRR5v5zrZ5DBEK22n1hwg7HHG87pump) | [Dexscreener](https://dexscreener.com/solana/hGs7JdzuB2bnfRR5v5zrZ5DBEK22n1hwg7HHG87pump)
+
 **Advanced Physics Simulation Library** — A full-featured TypeScript SDK for physics simulations, recording, analysis, and visualization.
 
 ## Features
